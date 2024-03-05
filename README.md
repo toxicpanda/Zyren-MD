@@ -1,8 +1,8 @@
 <a href="https://ibb.co/pQNpmwN"><img src="https://i.ibb.co/xYwQ4Lw/cheemspic.jpg" alt="Maria-Md" border="0"></a>
-<h1 align="center">⭐Maria-Md⭐<br></h1>
+<h1 align="center">✌𝓩𝔂𝓻𝓮𝓷 𝓜𝓓✌<br></h1>
 
 <p align="center"> 
-  Konochiwa Senpai, I am "Maria md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+ Hello There, I am "Zyren-MD " a WhatsApp bot made by Tozix Panda to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 </p>
 </br>
 
@@ -14,19 +14,16 @@
 1. pinterest added ✅️
 2. Dalle added ✅️
 3. self/public mode added ✅️
-4. nsfw added ✅️
-5. auto react added ✅️
+4. auto react added ✅️
 🔻More features and improvements!
-
--regards Ayush
 ```
 </br>
 
-## ```Connect With Me```
+## ```Connact My Master```
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=919931122319&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact Ayush-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=94776551215&text=hello+panda"><img src="https://img.shields.io/badge/Contact%20Panda-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
@@ -42,7 +39,7 @@
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/AYUSH-PANDEY023/Maria-Md/fork)
+- FORK THE REPOSITORY [Here](https://github.com/toxicpanda/Zyren-MD/fork)
 
 
 ## ` Pair with WhatsApp`
@@ -58,7 +55,7 @@
 
 
 
-<a href="https://heroku.com/deploy?template=https://github.com/AYUSH-PANDEY023/Maria-Md">
+<a href="https://heroku.com/deploy?template=https://github.com/toxicpanda/Zyren-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -67,11 +64,11 @@
 <a href="https://railway.app/new"><img src="https://railway.app/button.svg" />
 <br>
 <br>
-  <a href="https://github.com/codespaces/new"><img title="A17 on Gitub Codespace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" />
+  <a href="https://github.com/codespaces/new"><img title="Zyren-MD on Gitub Codespace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" />
 </a>
   <br>
 <br>
-  <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="A17 on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius"></a>
+  <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="Zyren-MD on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius"></a>
 </a>
 
 # Install Manually 👇
@@ -144,18 +141,3 @@ npm start
 npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
 
 ```
-<br>
-<br>
- <h2 align="center"> 🔖Thanks to
-</h2>
-
-1. **Teamolduser**
-   - GitHub: [@Teamolduser](https://github.com/Teamolduser)
-
-2. **PikaBotz**
-   - GitHub: [@PikaBotz](https://github.com/PikaBotz)
-
-3. **DGXeon**
-   - GitHub: [@DGXeon](https://github.com/DGXeon)
-
-Feel free to contribute and make this project even more awesome! 🌟
